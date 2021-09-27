@@ -1,0 +1,10 @@
+.vs/
+.vscode/
+obj
+bin
+
+*.jfm
+*.dbmdl
+*.csproj.user
+*.sqlproj.user
+
